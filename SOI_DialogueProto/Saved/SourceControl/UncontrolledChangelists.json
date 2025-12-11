@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gugus/Documents/Stage/ProtoSaneOrInsane/SOI_InventoryJam/SOI_DialogueProto/Content/BP_QuestionsData_Struct.uasset",
+				"C:/Users/gugus/Documents/Stage/ProtoSaneOrInsane/SOI_InventoryJam/SOI_DialogueProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/gugus/Documents/Stage/ProtoSaneOrInsane/SOI_InventoryJam/SOI_DialogueProto/Content/HUD/WB_Dialogue.uasset",
+				"C:/Users/gugus/Documents/Stage/ProtoSaneOrInsane/SOI_InventoryJam/SOI_DialogueProto/Content/NPC/BP_DialogueNPC.uasset",
+				"C:/Users/gugus/Documents/Stage/ProtoSaneOrInsane/SOI_InventoryJam/SOI_DialogueProto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/GS/BK40PPUPWFMKHOW3HXVHQ3.uasset",
+				"C:/Users/gugus/Documents/Stage/ProtoSaneOrInsane/SOI_InventoryJam/SOI_DialogueProto/Content/NPC/BPI_Dialogue.uasset"
+			]
+		}
+	]
+}
