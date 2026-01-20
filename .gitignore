@@ -97,3 +97,6 @@ DerivedDataCache/*
 
 # Temp Files
 Config/DefaultEditorPerProjectUserSettings.ini
+
+# Unreal personal folders
+Content/Developers/
